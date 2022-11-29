@@ -1,0 +1,13 @@
+1.Programlaşdırma nədir?
+Programlaşdırma texnoloji avadanlıqlara müəyyən əmrləri və ya tapşırıqları yerine gətirməsi üçün verilən təlimatlar toplusudur.Programlaşdırma sayəsində avadanlığa nə və necə etməli olduğunu,qarşıya çıxan problemlərin nələr olduğunu və həmçinin onun həll yolunu göstərən bir sistemdir.
+2. Software nədir və kompüterdə necə emal olunur?
+Program təminatı dedikdə kompüterdə müəyyən əmrləri yerinə yetirerkən istifadə edilən programların məcmusudur.Ən sadə örnəklə software system programını göstərə bilərik hansı ki sistemin idarə olunması prosesi burda baş verir. Program təminatının 3 növü vardır.
+1. System software və ya  ana yazılım dedikdə kompüter resurslarını idarəsi və informasiyanın emal proseslərini, ümümilikdə əməliyyatlar sistemindən istifadə etməyi görə bilərik.Bura Mac, Linux və s. sistemləri nümünə gətirə bilərik
+2. Application software-bura tətbiq programları aiddir hansi ki burda müəyyən əməliyyatları yerine yetire bilərik.Məsələn ofis programları, oyunlar vəs.
+3. Programlama dilləri- kompüterdə hər hansı bir alqoritmi yerine gətirməsi üçün istifadə olunan vasitələrdir. məsələn C++, Java, JavaScript.
+3. Proqramlaşdırma dillərini hansı xüsusiyyətlərinə görə qruplaşdırarsan
+Programlama dillərini ilk öncə   insan və maşın dilinə görə 2 hissəyə bölünür.Ümumilikdə programlama dillərini 3 səviyyədə bölünür.
+1.Alt səviyyə-Daha çox maşın dilinə yaxındır. Məsələn Assembly dili
+2. Orta səviyyə - Bu dillərlə həm aşağı səviyyəli, həm də yüksək səviyyəli proqramlaşdırmada həyata keçirilə bilər. Ama alt səviyyəyə nəzərən daha asan dildir. Məsələn C, C++, Pascal
+3. Yüksək səviyyə-Burda dili asanlıqla başa düşmək istənilən platformada işləyə bilməsi  və daha çox istifadə edilməsi ilə fərqlənir.Məsələn Python,Java, PHP,C#.
+Və yaxudda programlama dillərini front end və back end istifadəsinə görə də qruplaşdıra bilərik.
